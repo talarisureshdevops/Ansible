@@ -1,0 +1,41 @@
+- name: "Sivakumar Reddy"
+  dob: "1990-01-01"
+  mobileNumber: 9769175730
+  addresses:
+  - flatNumber: 104
+    street: "gandi nagar"
+    city: "Hyderabad"
+    type: "current"
+
+  - flatNumber: 104
+    street: "ramalayam street"
+    city: "Guntur"
+    type: "perm"
+
+- name: "Suresh"
+  dob: "1990-01-01"
+  mobileNumber: 9769175730
+  addresses:
+  - flatNumber: 104
+    street: "gandi nagar"
+    city: "Hyderabad"
+    type: "current"
+
+  - flatNumber: 104
+    street: "ramalayam street"
+    city: "Guntur"
+    type: "perm"
+
+- name: "Surekha"
+  dob: "1990-01-01"
+  mobileNumber: 9769175730
+  addresses:
+  - flatNumber: 104
+    street: "gandi nagar"
+    city: "Hyderabad"
+    type: "current"
+
+  - flatNumber: 104
+    street: "ramalayam street"
+    city: "Guntur"
+    type: "perm"
