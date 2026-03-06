@@ -1,0 +1,11 @@
+- name: deno on conditions
+  hosts: local
+  connection: local
+  vars:
+    IS_LIVE: false
+
+  taskes:
+  - name: check live or not
+    ansible.builtin.debug:
+      msg: "Yes, it is live"
+    when: IS_LIVE
