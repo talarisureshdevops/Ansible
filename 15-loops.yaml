@@ -1,6 +1,6 @@
 - name: install package
   hosts: web
-  connection: web
+  connection: ssh
   become: yes
   tasks: 
   - name: install package
